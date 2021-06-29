@@ -1,8 +1,8 @@
 # ProjectPRN
 Bookstore online
 
-Team members
--Nguyen Hai Phuong
--Nguyen Duc Phap
--Phan Dinh Giap
--Nguyen Ngoc Kien
+Team members </br>
+-Nguyen Hai Phuong </br>
+-Nguyen Duc Phap </br>
+-Phan Dinh Giap </br>
+-Nguyen Ngoc Kien </br>
